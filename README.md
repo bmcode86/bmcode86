@@ -13,3 +13,5 @@ Here are something about me:
 - ⚡ Fun fact: hmm, i'm fun and it's a fact!
 
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=bmcode86&count_private=true&show_icons=true&theme=dark&locale=de" /></p>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bmcode86)](https://github.com/bmcode86/github-readme-stats)
