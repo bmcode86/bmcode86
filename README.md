@@ -14,4 +14,4 @@ Here are something about me:
 
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=bmcode86&count_private=true&show_icons=true&theme=dark&locale=de" /></p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bmcode86)](https://github.com/bmcode86/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmcode86&layout=compact)](https://github.com/bmcode86/github-readme-stats)
