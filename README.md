@@ -4,7 +4,7 @@
 #### Languages I am using
 
 [![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/bmcode?tab=repositories&q=&type=&language=python)
-[![R](https://img.shields.io/badge/-R-fff?&logo=r)](https://github.com/bmcode?tab=repositories&q=&type=&language=r)
+[![R](https://img.shields.io/badge/-R-fff?&logo=R)](https://github.com/bmcode?tab=repositories&q=&type=&language=r)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)](https://github.com/bmcode86?tab=repositories&q=&type=&language=postgresql)
 [![Flutter](https://img.shields.io/badge/-Flutter-fff?&logo=Flutter&logoColor=blue)](https://github.com/bmcode86?tab=repositories&q=&type=&language=flutter)
 [![LaTeX](https://img.shields.io/badge/-LaTeX-fff?&logo=LaTeX&logoColor=red)](https://github.com/bmcode86?tab=repositories&q=&type=&language=latex)
