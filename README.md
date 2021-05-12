@@ -12,7 +12,7 @@
 #### Libraries I am using
 [![networkx](https://img.shields.io/badge/-networkx-fff?&logo=python&logoColor=yellow)](https://github.com/bmcode86?tab=repositories&q=&type=&language=python)
 
-#### Framework I am using
+#### Framework I am learning
 [![Django](https://img.shields.io/badge/-django-fff?&logo=python&logoColor=green)](https://github.com/bmcode86?tab=repositories&q=&type=&language=python)
 
 
